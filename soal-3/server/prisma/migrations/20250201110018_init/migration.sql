@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "data" ALTER COLUMN "experience" SET DATA TYPE TEXT,
+ALTER COLUMN "country" SET DATA TYPE TEXT;
